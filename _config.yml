@@ -1,15 +1,10 @@
 url: https://DeustoKom.github.io
-baseurl: /RatosConDatos/
+baseurl: /RatosConDatos
 
 collections:
   posts:
     output          : true
-
 limit_posts         : 0
-
-permalink           : date
-paginate_path       : /page:num
-timezone            : null
 
 # Site settings
 title: Ratos con Datos
