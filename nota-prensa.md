@@ -5,7 +5,7 @@ layout: nota
 <h3 style="font-family: 'Playfair Display', Georgia, serif; font-weight: normal;">Ponencia y conversación a tres:</h3>
 <h2> El reto de visualizar datos COVID-19 durante la pandemia</h2>
 
-<div style="font-size:1.2em;line-height:1.2em;">
+<div style="font-size:1.2em;line-height:1.2em;" markdown="1">
 
 - Dónde: Sala multimedia, Matteo Ricci, Universidad de Deusto, campus Donostia
 - Cuándo: Día 5 de marzo, 16:00-17:30, presencial y online (aforo reducido por el COVID-19)
