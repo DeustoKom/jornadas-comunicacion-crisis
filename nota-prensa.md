@@ -2,8 +2,10 @@
 layout: nota
 ---
 
-### Ponencia y conversación a tres:
-## El reto de visualizar datos COVID-19 durante la pandemia
+<h3 style="font-family: 'Playfair Display', Georgia, serif; font-weight: normal;">Ponencia y conversación a tres:</h3>
+<h2> El reto de visualizar datos COVID-19 durante la pandemia</h2>
+
+<div style="font-size:1.2em;line-height:1.2em;">
 
 - Dónde: Sala multimedia, Matteo Ricci, Universidad de Deusto, campus Donostia
 - Cuándo: Día 5 de marzo, 16:00-17:30, presencial y online (aforo reducido por el COVID-19)
@@ -24,3 +26,5 @@ El programa es:
 	+ Asier Murciego, Orkerstra: Mi experiencia visualizando datos del COVID-19
 - 17:00-17:30 Debate abierto a público online y presencial  
   Modera: Miren Gutiérrez, experta en activismo de datos
+
+</div>
