@@ -177,12 +177,16 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Playfair Display", Georgia ,cursive;
+    font-weight: bold;
     color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand .by {
     font-family: Montserrat, Helvetica, Arial, sans-serif;
     font-weight:200;
+    text-transform:uppercase;
+    font-size:.7em;
+    opacity: .6;
 }
 
 .navbar-default .navbar-brand .by .kom {
@@ -296,7 +300,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
-    font-style: italic;
+    font-style: normal;
     line-height: 22px;
 }
 
