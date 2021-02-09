@@ -2,8 +2,8 @@
 layout: nota
 ---
 
-#### Ponencia y conversación a tres:
-##El reto de visualizar datos COVID-19 durante la pandemia
+### Ponencia y conversación a tres:
+## El reto de visualizar datos COVID-19 durante la pandemia
 
 - Dónde: Sala multimedia, Matteo Ricci, Universidad de Deusto, campus Donostia
 - Cuándo: Día 5 de marzo, 16:00-17:30, presencial y online (aforo reducido por el COVID-19)
