@@ -7,9 +7,9 @@ layout: nota
 
 <div class="nota" markdown="1">
 
-- Dónde: Sala multimedia, Matteo Ricci, Universidad de Deusto, campus Donostia
-- Cuándo: Día 5 de marzo, 16:00-17:30, presencial y online (aforo reducido por el COVID-19)
-- Organiza: DeustoKom, Curso “Introducción a la Comunicación Visual de Datos”, Comunicación, Universidad de Deusto
+- Dónde: Aula Digital, Edificio Matteo Ricci. Universidad de Deusto, campus de Donostia
+- Cuándo: viernes 5 de marzo, 16:00-17:30, presencial (aforo reducido por COVID-19) y en línea
+- Organiza: DeustoKom, Departamento de Comunicación. Parte del curso “Introducción a la Comunicación Visual de Datos”. Universidad de Deusto.
 
 La pandemia de la COVID-19 ha puesto de manifiesto lo importantes que son los datos en general, y sus representaciones gráficas en particular, para la toma de decisiones, de lo personal a lo político, de lo económico a lo social.
 
@@ -19,7 +19,7 @@ Esta conferencia aborda uno de los retos de mayor calado hoy: la relevancia de l
 
 El programa es:
 
-- 16:00-16:30 Pablo rey: La experiencia de Escovid19data, una plataforma de referencia en la visualización de datos de la pandemia
+- 16:00-16:30 Pablo Rey: La experiencia de Escovid19data, una plataforma de referencia en la visualización de datos de la pandemia
 - 16:30-17:00 Panel de expertos y expertas
 	+ Mikel Madina, experto en visualizaciones de datos: Buenas y malas visualizaciones de datos del COVID-19
 	+ Miren Berasategi, Deusto: Ansiedad matemática ante los datos de la pandemia
