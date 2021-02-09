@@ -2,7 +2,7 @@
 layout: nota
 ---
 
-<h3 style="font-family: 'Playfair Display', Georgia, serif; font-weight: normal;">Ponencia y conversación a tres:</h3>
+<h3 style="font-family: 'Playfair Display', Georgia, serif; font-weight: normal;text-transform:none;">Ponencia y conversación a tres:</h3>
 <h2> El reto de visualizar datos COVID-19 durante la pandemia</h2>
 
 <div style="font-size:1.2em;line-height:1.2em;" markdown="1">
