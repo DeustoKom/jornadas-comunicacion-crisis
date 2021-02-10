@@ -17,18 +17,12 @@ people:
       url: https://twitter.com/numeroteca
     - title: link
       url: http://numeroteca.org/
-    - title: google-plus
-      url: #
 - name: Mikel Madina
   pic: mikel-madina
   position: Visualización de datos
   social:
     - title: twitter
       url: https://twitter.com/neregauzak
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 - name: Miren Berasategi
   pic: miren-berasategi
   position: Universidad de Deusto
@@ -39,17 +33,12 @@ people:
       url: https://miren.bz
     - title: github
       url: https://github.com/mberasategi
-
 - name: Asier Murciego
   pic: asier-murciego
   position: Orkestra
   social:
     - title: twitter
       url: https://twitter.com/murciego
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
