@@ -9,14 +9,18 @@ description: "El reto de visualizar datos COVID-19 durante la pandemia. Organiza
 
 # Team names, titles and social links
 people:
-- name: Pablo Rey
+- name: Pablo Rey Mazón
   pic: pablo-rey
   position: Numeroteca
   social:
     - title: twitter
       url: https://twitter.com/numeroteca
     - title: link
+      url: http://montera34.com/
+    - title: link
       url: http://numeroteca.org/
+    - title: github
+      url: https://github.com/numeroteca/
 - name: Mikel Madina
   pic: mikel-madina
   position: Visualización de datos
