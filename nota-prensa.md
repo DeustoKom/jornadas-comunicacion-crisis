@@ -37,7 +37,7 @@ Para hablar de este tema, contamos con:
 
 </td><td>
 
-**Pablo Rey**, Master por Cambridge, MA (EEUU), donde estuvo como científico invitado en el MIT Center for Civic Media. Desde Numeroteca, con su proyecto colectivo Escovid19data, se ha convertido en una referencia para el seguimiento del COVID-19, al plasmar gráficamente los datos publicados por el Ministerio de Sanidad por provincias.
+**Pablo Rey**, Master por Cambridge, MA (EEUU), donde estuvo como científico invitado en el [MIT Center for Civic Media](http://civic.mit.edu/). Desde [Numeroteca](http://numeroteca.org/about/), con su proyecto colectivo Escovid19data, se ha convertido en una referencia para el seguimiento del COVID-19, al plasmar gráficamente los datos publicados por el Ministerio de Sanidad por provincias.
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Para hablar de este tema, contamos con:
 
 </td><td>
  
-**Mikel Madina**, experto en visualización de datos, colabora en diversos proyectos de visualización de datos tanto públicos como privados, además de impartir clases en la Universidad de Deusto sobre el mismo tema. Docente del curso Introducción a la Comunicación Visual de Datos.
+**Mikel Madina**, experto en visualización de datos, colabora en diversos proyectos de visualización de datos tanto públicos como privados, además de impartir clases en la Universidad de Deusto sobre el mismo tema. Docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Para hablar de este tema, contamos con:
 
 </td><td>
 
-**Miren Berasategi**, docente e investigadora en el Departamento de Comunicación de la Universidad de Deusto. Doctorada con una tesis doctoral sobre la ansiedad matemática y el trabajo con datos en Grados de Comunicación. Experta en materias relacionadas con la comunicación digital y la visualización de datos. Docente del curso Introducción a la Comunicación Visual de Datos.
+**Miren Berasategi**, docente e investigadora en el [Departamento de Comunicación](http://deustokom.deusto.es/) de la Universidad de Deusto. Doctorada con una tesis doctoral sobre la ansiedad matemática y el trabajo con datos en Grados de Comunicación. Experta en materias relacionadas con la comunicación digital y la visualización de datos. Docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa).
 
 </td></tr><tr><td>
 
@@ -61,11 +61,11 @@ Para hablar de este tema, contamos con:
 
 </td><td>
 
-**Asier Murciego**,  experto de Orkestra - Instituto Vasco de Competitividad, donde se encarga de analizar, gestionar y visualizar información mediante la creación de herramientas orientadas a la investigación y la comunicación. Licenciado en Telecomunicaciones por la Universidad del País Vasco, donde recibió una beca para el diseño de herramientas para la medición de la calidad de redes distribuidas.
+**Asier Murciego**,  experto de [Orkestra - Instituto Vasco de Competitividad](https://orkestra.deusto.es/), donde se encarga de analizar, gestionar y visualizar información mediante la creación de herramientas orientadas a la investigación y la comunicación. Licenciado en Telecomunicaciones por la Universidad del País Vasco, donde recibió una beca para el diseño de herramientas para la medición de la calidad de redes distribuidas.
 
 </td></tr><tr><td colspan="2">
 
-Modera: **Miren Gutiérrez**, docente del curso Introducción a la Comunicación Visual de Datos, Universidad de Deusto.
+Modera: **Miren Gutiérrez**, docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa), Universidad de Deusto.
 
 </td></tr></table>
 
