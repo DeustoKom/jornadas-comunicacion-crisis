@@ -882,9 +882,9 @@ body {
 }
 
 
-.nota h3 {
+#nota h3 {
     padding-bottom:0; padding-top:1em;
 }
-.nota h2 { padding-top:0; padding-bottom:1em; }
+#nota h2 { padding-top:0; padding-bottom:1em; }
 
-.nota p, .nota li, .nota ul { font-size:16px; line-height:24px; font-family:Montserrat, Helvetica, Arial, sans-serif; }
+#nota p, #nota li, #nota ul { font-size:16px; line-height:24px; font-family:Montserrat, Helvetica, Arial, sans-serif; }
