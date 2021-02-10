@@ -31,35 +31,35 @@ Para entrevistas con los/a ponentes, enviar solicitud a m.gutierrez@deusto.es o 
 
 Para hablar de este tema, contamos con:
 
-<table><tr><td>
+<table><tr><td markdown="1">
 
 ![Pablo Rey. Fuente: [Wikitoki](https://wikitoki.org/entidad/pablo/)](/RatosConDatos/img/team/pablo-rey.jpg)
 
-</td><td>
+</td><td markdown="1">
 
 **Pablo Rey**, Master por Cambridge, MA (EEUU), donde estuvo como científico invitado en el [MIT Center for Civic Media](http://civic.mit.edu/). Desde [Numeroteca](http://numeroteca.org/about/), con su proyecto colectivo Escovid19data, se ha convertido en una referencia para el seguimiento del COVID-19, al plasmar gráficamente los datos publicados por el Ministerio de Sanidad por provincias.
 
-</td></tr><tr><td>
+</td></tr><tr><td markdown="1">
 
 ![Mikel Madina. Fuente: [Cadena SER](https://cadenaser.com/emisora/2016/09/30/radio_bilbao/1475232847_442984.html)](/RatosConDatos/img/team/mikel-madina.jpg)
 
-</td><td>
+</td><td markdown="1">
  
 **Mikel Madina**, experto en visualización de datos, colabora en diversos proyectos de visualización de datos tanto públicos como privados, además de impartir clases en la Universidad de Deusto sobre el mismo tema. Docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa).
 
-</td></tr><tr><td>
+</td></tr><tr><td markdown="1">
 
 ![Miren Berasategi. Fuente: [Universidad de Deusto](https://miren.bz/deusto/)](/RatosConDatos/img/team/miren-berasategi.jpg)
 
-</td><td>
+</td><td markdown="1">
 
 **Miren Berasategi**, docente e investigadora en el [Departamento de Comunicación](http://deustokom.deusto.es/) de la Universidad de Deusto. Doctorada con una tesis doctoral sobre la ansiedad matemática y el trabajo con datos en Grados de Comunicación. Experta en materias relacionadas con la comunicación digital y la visualización de datos. Docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa).
 
-</td></tr><tr><td>
+</td></tr><tr><td markdown="1">
 
 ![Asier Murciego. Fuente: [Orkestra](https://www.orkestra.deusto.es/en/about-orkestra/team/424-asier-murciego-en)](/RatosConDatos/img/team/asier-murciego.jpg)
 
-</td><td>
+</td><td markdown="1">
 
 **Asier Murciego**,  experto de [Orkestra - Instituto Vasco de Competitividad](https://orkestra.deusto.es/), donde se encarga de analizar, gestionar y visualizar información mediante la creación de herramientas orientadas a la investigación y la comunicación. Licenciado en Telecomunicaciones por la Universidad del País Vasco, donde recibió una beca para el diseño de herramientas para la medición de la calidad de redes distribuidas.
 
