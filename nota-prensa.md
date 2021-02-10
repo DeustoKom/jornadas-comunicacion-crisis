@@ -27,7 +27,12 @@ Esta conferencia aborda uno de los retos de mayor calado hoy: la relevancia de l
 - 17:00-17:30 Debate abierto al público online y presencial  
   Modera: **Miren Gutiérrez**, experta en activismo de datos.
 
-Para entrevistas con los/a ponentes, enviar solicitud a m.gutierrez@deusto.es o llamar a 648506580.
+<div class="contacto" markdown="1">
+
+Para entrevistas con los/a ponentes, enviar solicitud  
+a [m.gutierrez@deusto.es](mailto:m.gutierrez@deusto.es) o llamar al [648506580](tel:648506580).
+
+</div>
 
 Para hablar de este tema, contamos con:
 
