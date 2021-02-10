@@ -9,8 +9,18 @@ description: "El reto de visualizar datos COVID-19 durante la pandemia. Organiza
 
 # Team names, titles and social links
 people:
+- name: Pablo Rey
+  pic: pablo-rey
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 - name: Mikel Madina
-  pic: 1
+  pic: mikel-madina
   position: Lead Designer
   social:
     - title: twitter
@@ -21,7 +31,7 @@ people:
       url: #
 
 - name: Miren berasategi
-  pic: 2
+  pic: miren-berasategi
   position: Lead Marketer
   social:
     - title: twitter
@@ -32,7 +42,7 @@ people:
       url: #
 
 - name: Asier Murciego
-  pic: 3
+  pic: asier-murciego
   position: Lead Developer
   social:
     - title: twitter
