@@ -63,7 +63,7 @@ Para hablar de este tema, contamos con:
 
 **Asier Murciego**,  experto de [Orkestra - Instituto Vasco de Competitividad](https://orkestra.deusto.es/), donde se encarga de analizar, gestionar y visualizar información mediante la creación de herramientas orientadas a la investigación y la comunicación. Licenciado en Telecomunicaciones por la Universidad del País Vasco, donde recibió una beca para el diseño de herramientas para la medición de la calidad de redes distribuidas.
 
-</td></tr><tr><td colspan="2">
+</td></tr><tr><td colspan="2" markdown="1">
 
 Modera: **Miren Gutiérrez**, docente del curso [Introducción a la Comunicación Visual de Datos](https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/curso-de-introduccion-a-la-comunicacion-visual-de-datos/programa), Universidad de Deusto.
 
