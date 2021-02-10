@@ -11,42 +11,41 @@ description: "El reto de visualizar datos COVID-19 durante la pandemia. Organiza
 people:
 - name: Pablo Rey
   pic: pablo-rey
-  position: Lead Developer
+  position: Numeroteca
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/numeroteca
+    - title: link
+      url: http://numeroteca.org/
     - title: google-plus
       url: #
 - name: Mikel Madina
   pic: mikel-madina
-  position: Lead Designer
+  position: Visualización de datos
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/mikelmadina
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
-
 - name: Miren berasategi
   pic: miren-berasategi
-  position: Lead Marketer
+  position: Universidad de Deusto
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: mberasategi
+    - title: link
+      url: https://miren.bz
+    - title: github
+      url: https://github.com/mberasategi
 
 - name: Asier Murciego
   pic: asier-murciego
-  position: Lead Developer
+  position: Orkestra
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/murciego
     - title: facebook
       url: #
     - title: google-plus
