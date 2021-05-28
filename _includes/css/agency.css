@@ -322,9 +322,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
+        font-size: 60px;
         font-style: normal;
-        line-height: 40px;
+        line-height: 60px;
     }
 
     header .intro-text .intro-heading {
