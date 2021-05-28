@@ -1,10 +1,10 @@
-url: https://lab.deustokom.news
-baseurl: /RatosConDatos
+url: 
+baseurl: 
 
 # Site settings
-title: Ratos con Datos
-email: deustokom@deusto.es
-description: "El reto de visualizar datos COVID-19 durante la pandemia. Organizado por DeustoKom."
+title: Jornadas 'Comunicación en crisis'
+email: elixabete.perez@deusto.es
+description: "Jornadas 'Comunicación en crisis'"
 
 
 # Team names, titles and social links
@@ -21,41 +21,19 @@ people:
       url: http://numeroteca.org/
     - title: github
       url: https://github.com/numeroteca/
-- name: Mikel Madina
-  pic: mikel-madina
-  position: Consultor
-  social:
-    - title: twitter
-      url: https://twitter.com/neregauzak
-- name: Miren Berasategi
-  pic: miren-berasategi
-  position: Universidad de Deusto
-  social:
-    - title: twitter
-      url: https://twitter.com/mberasategi
-    - title: link
-      url: https://miren.bz
-    - title: github
-      url: https://github.com/mberasategi
-- name: Asier Murciego
-  pic: asier-murciego
-  position: Orkestra
-  social:
-    - title: twitter
-      url: https://twitter.com/murciego
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/deustokomunika
+    url: http://twitter.com/deustokom
 #  - title: facebook
 #    url:
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket 
 #    url: http://bitbucket.org/jekyll
-  - title: youtube
-    url: https://www.youtube.com/playlist?list=PLUDmL1Ad-O82FJU0pLl9iBhFaxtwYI_zL
+  # - title: youtube
+  #   url: https://www.youtube.com/playlist?list=PLUDmL1Ad-O82FJU0pLl9iBhFaxtwYI_zL
   - title: github
     url: http://github.com/deustokom/
 
