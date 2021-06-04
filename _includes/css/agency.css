@@ -645,7 +645,7 @@ section h3.section-subheading {
     }
 }
 
-#team .col-sm-4:first-child {width:100%;float:left;}
+/* #team .col-sm-4:first-child {width:100%;float:left;} */
 
 .team-member {
     margin-bottom: 50px;
