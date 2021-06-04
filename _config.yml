@@ -13,8 +13,14 @@ people:
   pic: karen-sanders
   position: Profesora e investigadora en St Mary's University
   social:
-    - title: google-scholar
+    - title: graduation-cap
       url: https://scholar.google.es/citations?user=mQuselIAAAAJ&hl=en
+- name: Javier Erro
+  pic: javier-erro-sala
+  position: 
+  social:
+    - title: graduation-cap
+      url: 
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
