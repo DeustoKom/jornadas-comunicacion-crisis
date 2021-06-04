@@ -9,18 +9,13 @@ description: "Jornadas 'Comunicación en crisis'"
 
 # Team names, titles and social links
 people:
-- name: Pablo Rey Mazón
-  pic: pablo-rey
-  position: Numeroteca
+- name: Karen Sanders
+  pic: karen-sanders
+  position: Profesora e investigadora en St Mary's University
   social:
-    - title: twitter
-      url: https://twitter.com/numeroteca
-    - title: link
-      url: http://montera34.com/
-    - title: link
-      url: http://numeroteca.org/
-    - title: github
-      url: https://github.com/numeroteca/
+    - title: google-scholar
+      url: https://scholar.google.es/citations?user=mQuselIAAAAJ&hl=en
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
