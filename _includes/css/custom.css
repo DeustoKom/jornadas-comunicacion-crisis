@@ -4,11 +4,12 @@ header .intro-text .intro-heading { font-family:"Playfair Display", "Times New R
 
 header .intro-text .intro-heading span { font-weight:normal; }
 
-ul.nav a.lang { font-size: .8em; padding-right: 0 !important; }
-ul.nav a.lang span { background-color: rgba(255,255,255,.3); color: #333; padding: .3em; }
-ul.nav a.lang span.active { background-color: rgba(255,255,255,.9); font-weight: bold; }
-ul.nav a.lang.eu { padding-right: 0; }
-ul.nav a.lang.es { padding-left: 0; }
-ul.nav a.lang.eu span { border-top-left-radius: 20%; border-bottom-left-radius: 20%;  }
-ul.nav a.lang.es span { border-top-right-radius: 20%; border-bottom-right-radius: 20%; }
-ul.nav a.lang:hover span { background-color: rgba(255,255,255,.6); }
+ul.nav .lang { font-size: .8em;  }
+ul.nav .lang span { background-color: rgba(255,255,255,.3); color: #333; padding: .3em; }
+ul.nav .lang span.active { background-color: rgba(255,255,255,.9); font-weight: bold; }
+ul.nav .lang a.eu { padding-right: 0; }
+ul.nav .lang a.es { padding-left: 0; }
+ul.nav .lang a.eu span { border-top-left-radius: 20%; border-bottom-left-radius: 20%;  }
+ul.nav .lang a.es span { border-top-right-radius: 20%; border-bottom-right-radius: 20%; }
+ul.nav .lang a:hover span { background-color: rgba(255,255,255,.6); }
+.navbar-collapse.in ul.nav .lang { display: inline-block; }
