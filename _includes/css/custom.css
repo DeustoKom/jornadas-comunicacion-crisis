@@ -7,6 +7,6 @@ header .intro-text .intro-heading span { font-weight:normal; }
 ul.nav a.lang { font-size: .8em; padding-right: 0 !important; }
 ul.nav a.lang span { background-color: rgba(255,255,255,.3); color: #666; padding: .3em; }
 ul.nav a.lang span.active { background-color: rgba(255,255,255,.6); }
-ul.nav a.lang.eu { border-top-left-radius: 20%; border-bottom-left-radius: 20%; padding-right: 0; }
-ul.nav a.lang-es { border-top-right-radius: 20%; border-bottom-right-radius: 20%; padding-left: 0; }
-ul.nav a.lang:hover { background-color: rgba(255,255,255,.9); }
+ul.nav a.lang.eu span { border-top-left-radius: 20%; border-bottom-left-radius: 20%; padding-right: 0; }
+ul.nav a.lang.es span { border-top-right-radius: 20%; border-bottom-right-radius: 20%; padding-left: 0; }
+ul.nav a.lang:hover span { background-color: rgba(255,255,255,.9); }
