@@ -1,0 +1,56 @@
+<!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Participantes</h2>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Responsable: <strong>Elixabete Perez Gaztelu</strong></p>
+                    <p class="medium text-muted">Participantes en el eje Comunicación y Política: </p>
+                    <p class="small text-muted"><li>Leyre Arrieta </li></p>
+                    <p class="small text-muted"><li>Xabier Barandiaran </li></p>
+                    <p class="small text-muted"><li>Eider Landaberea </li></p>
+                    <p class="small text-muted"><li>Josean Marín </li></p>
+                    <p class="small text-muted"><li>Ion Muñoa </li></p>
+                    <p class="small text-muted"><li>Juan Pagola </li></p>
+                  
+                    <p class="medium text-muted">Participantes en el eje Comunicación y Transformaciones sociales: </p>
+                    <p class="small text-muted"><li>Luzia Alberro </li></p>
+                    <p class="small text-muted"><li>Esti Amorrortu </li></p>
+                    <p class="small text-muted"><li>Garazi Azanza </li></p>
+                    <p class="small text-muted"><li>Miren Berasategi </li></p>
+                    <p class="small text-muted"><li>Miren Gutiérrez </li></p>
+                    <p class="small text-muted"><li>Xabier Landabidea </li></p>
+                    <p class="small text-muted"><li>María Jesús Pando </li></p>
+                    <p class="small text-muted"><li>Elixabete Perez Gaztelu </li></p>
+                    <p class="small text-muted"><li>Lorena Ronda </li></p>
+                    <p class="small text-muted"><li>María Pilar Rodríguez </li></p>
+      
+                </div>
+            </div>
+        </div>
+    </section>
