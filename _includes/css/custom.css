@@ -13,3 +13,5 @@ ul.nav .lang a.eu span { border-top-left-radius: 20%; border-bottom-left-radius:
 ul.nav .lang a.es span { border-top-right-radius: 20%; border-bottom-right-radius: 20%; }
 ul.nav .lang a:hover span { background-color: rgba(255,255,255,.6); }
 .navbar-collapse.in ul.nav .lang { display: inline-block; }
+
+.team-member img { max-width: 250px; }
